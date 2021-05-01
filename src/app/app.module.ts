@@ -15,6 +15,9 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { NzIconModule } from 'ng-zorro-antd/icon';
 import { DicoverComponent } from './dicover/dicover.component';
+import { FooterComponent } from './footer/footer.component';
+import { CollectComponent } from './collect/collect.component';
+import { SeasonComponent } from './season/season.component';
 
 registerLocaleData(en);
 // import { MatIconModule } from '@angular/material/icon';
@@ -25,7 +28,10 @@ registerLocaleData(en);
     HeaderComponent,
     NavbarComponent,
     MainComponent,
-    DicoverComponent
+    DicoverComponent,
+    FooterComponent,
+    CollectComponent,
+    SeasonComponent
   ],
   imports: [
     BrowserModule,

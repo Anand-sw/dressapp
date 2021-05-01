@@ -1,4 +1,4 @@
-.menu {
+.main {
   border-top: 1px solid #3150a2;
     text-align: center;
     margin: 20px;
@@ -7,6 +7,7 @@
   font-size: 30px;
   text-align: center;
   color: #3150A2;
+  padding: 20px;
 }
 .card {
     border: none;
@@ -60,3 +61,6 @@
       transform: translate3d(4px, 0, 0);
     }
   }
+
+
+  

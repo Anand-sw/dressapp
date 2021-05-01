@@ -1,0 +1,91 @@
+.footer-area {
+    background: #3150A2 none repeat scroll 0 0;
+    color: #cacaca;
+    letter-spacing: 1px;
+    position: absolute;  
+    box-sizing: border-box;
+    display: block;
+    width: 100%; 
+  }  
+   
+  .footer-menu1 {
+    padding: 30px 0;
+    margin-right: 90px;
+    margin-left: 10px;
+  }
+  .footer-menu1 h3 {
+      font-size: 14px;
+      color: #fff;
+      text-align: center;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+     
+  }
+  .footer-menu1 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 12px;
+  }
+  .footer-menu1 ul li {
+    display: block;
+    
+  }
+  .footer-menu1 ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 20px; 
+  }
+
+ 
+  .footer-menu3 {
+    padding: 30px 0;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    margin-right: 90px;
+
+    
+  }
+  .footer-menu3 h3 {
+      font-size: 14px;
+      color: #fff;
+      text-align: center;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+     
+  }
+  .footer-menu3 ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+  }
+  .footer-menu3 ul li {
+    display: block;
+    padding: 3px;
+    color: #fff;    
+  }
+  
+
+  .footer-address{
+    margin-top: 30px;
+  }
+  .footer-address p{
+    font-size: 14px;
+    color: #fff;
+    padding: 0;    
+  }
+  .footer-address p a{
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  .footer-right{
+    float: right;  
+  }
+  .footer-right p a{
+    color: #fff;
+    text-decoration: none;
+  }
