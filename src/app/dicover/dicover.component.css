@@ -1,0 +1,25 @@
+.discover {
+    flex: left;
+    padding: 30px;    
+}
+.discover h3 {
+    font-size: 20px;
+    border-bottom: 1px solid  #3150A2;
+    color:  #3150A2;
+    text-transform: uppercase;
+}
+.discover ul {
+    list-style: none;
+    text-align: left;
+    margin-left: 10px;
+}
+.discover ul li {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3150A2;
+    text-align: left;
+
+}
+.discover__part {
+    padding: 20px;
+}
